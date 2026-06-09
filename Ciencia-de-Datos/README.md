@@ -33,3 +33,4 @@ Mi objetivo es integrar esta base de ciencia de datos con mi especialización ac
 *   **Institución:** IE University / Santander Open Academy
 *   **Fecha de finalización:** 8 de junio de 2026
 *   **ID de Credencial:** OA-2026-0608002722407
+*   - **Ver certificado oficial:** [Descargar Certificado PDF](Certificado_Ciencia_Datos.pdf)

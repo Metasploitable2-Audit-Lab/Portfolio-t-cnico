@@ -64,3 +64,9 @@ En un centro de operaciones de seguridad (SOC), los analistas sufren de "fatiga 
 ### B. Análisis de Anomalías de Red (Detección de Amenazas)
 Las firmas de virus tradicionales no sirven para detectar ataques de día cero (vulnerabilidades nuevas). 
 * **Solución desde la Ciencia de Datos:** Al definir una "línea base" de lo que es tráfico normal (usando fundamentos estadísticos), cualquier conexión atípica (*outlier*), como la exfiltración silenciosa de datos sensibles fuera del horario de oficina, es identificada automáticamente como una anomalía sospechosa.
+
+## 🎓 Certificación
+- **Institución:** IE University / Santander Open Academy
+- **Fecha de finalización:** 8 de junio de 2026
+- **ID de Credencial:** OA-2026-0608002722407
+- **Ver certificado oficial:** [Descargar Certificado PDF](Certificado_Ciencia_Datos.pdf)
